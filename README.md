@@ -58,7 +58,8 @@ python ChatBot.py
 | Arquivo       | Descrição                                       |
 |---------------|-------------------------------------------------|
 | `ChatBot.py`  | Código principal do chatbot                     |
-| `.env`        | (não versionado) Chave da API da OpenAI         |                    
+| `.env`        | (não versionado) Chave da API da OpenAI         |
+| `requirements.txt` | Dependências do projeto                    |
 | `README.md`   | Documentação do projeto                         |
 
 ---
@@ -66,8 +67,15 @@ python ChatBot.py
 ## ⚠️ Avisos
 
 - Nunca compartilhe sua chave da OpenAI publicamente.
+- Evite subir o arquivo `.env` no GitHub.
 - Se quiser usar outros modelos (como GPT-4), altere o valor do parâmetro `model` no código.
 
 ---
 
-Feito com 💻 por Thiag0h
+## 📄 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+Feito com 💻 por [Seu Nome]
