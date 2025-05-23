@@ -67,15 +67,8 @@ python ChatBot.py
 ## ⚠️ Avisos
 
 - Nunca compartilhe sua chave da OpenAI publicamente.
-- Evite subir o arquivo `.env` no GitHub.
 - Se quiser usar outros modelos (como GPT-4), altere o valor do parâmetro `model` no código.
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
----
-
-Feito com 💻 por [Seu Nome]
+Feito com 💻 por Thiag0h
